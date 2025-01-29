@@ -188,7 +188,7 @@ pip install tensorflow keras numpy pillow
 
 ## Final Notes  
 ✅ The model **achieves 93%+ validation accuracy**.  
-✅ 🚀 **For best performance, run this in a dedicated virtual environment (`venv`).**  
+✅ **For best performance, run this in a dedicated virtual environment (`venv`).**  
 
 ---
 
